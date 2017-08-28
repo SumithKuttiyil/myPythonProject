@@ -14,5 +14,5 @@ y_pred = KMeans(n_clusters=3, random_state=random_state).fit_predict(X)
 
 print(y_pred)
 plt.scatter(X[:, 0], X[:, 1], c=y_pred)
-plt.title("Cluster")
+plt.title("KMean Cluster")
 plt.show()
