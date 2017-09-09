@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="read" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping pattern="Problem_3(b)" type="Python" />
     </extensionMap>
   </component>
 </application>
