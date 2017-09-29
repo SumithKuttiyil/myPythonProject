@@ -6,6 +6,7 @@
       <mapping pattern="atomicSpectradata" type="PLAIN_TEXT" />
       <mapping pattern="atomicSpectradata_column2" type="PLAIN_TEXT" />
       <mapping pattern="read" type="PLAIN_TEXT" />
+      <mapping pattern="tobedeleted" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
